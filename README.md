@@ -1,5 +1,5 @@
 # Guerreiros do futuro
-## Este projeto é uma página web interativa que exibe cartões dos Guerreiros do futuro. Cada cartão apresenta informações sobre um membro específico. Ao clicar na seta lateral, os usuários podem navegar entre os diferentes membros, visualizando novos perfis ou retornando aos anteriores de forma fluida e intuitiva.
+### Este projeto é uma página web interativa que exibe cartões dos Guerreiros do futuro. Cada cartão apresenta informações sobre um membro específico. Ao clicar na seta lateral, os usuários podem navegar entre os diferentes membros, visualizando novos perfis ou retornando aos anteriores de forma fluida e intuitiva.
 ## 🛠️ Tecnologias utilizadas
 
 - HTML
